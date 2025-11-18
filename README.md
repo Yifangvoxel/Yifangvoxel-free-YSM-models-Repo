@@ -1,2 +1,2 @@
-# Yifangvoxel-free-YSM-models-Repo
+# Yifangvoxel-free-models-Repo
 This repository includes all of Yifangvoxel’s free models. For any questions, join our Discord server to ask.
